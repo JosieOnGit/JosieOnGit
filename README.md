@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently studying **HBO-ICT at Hogeschool Utrecht**
 
+- 🔭 I’m currently working on [Object-Oriented AD / P](https://github.com/BlackCatMS/V1-OOP)
+
+- 📫 Reach out to me at **theblackcatms@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nenevevo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nenevevo" height="30" width="40" /></a>
