@@ -32,6 +32,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=blackcatms&show_icons=true&theme=material-palenight" alt="blackcatms" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackcatms&show_icons=true&locale=en&layout=compact" alt="blackcatms" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=blackcatms&theme=material-palenight" alt="blackcatms" /></p>
