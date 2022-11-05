@@ -10,7 +10,7 @@
 
 - 🖋️ I primarily write my code in **Python**
 
-- 🔭 I’m currently working on **Front-/Back-End Programming**, and a barebones **[spoken language](https://github.com/BlackCatMS/Luniks)**
+- 🔭 I’m currently working on **Front-/Back-End Programming**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
 
 - 🌱 I’m currently learning **Web Front-End (HTMLCSS & JS)**, a variety of **Visual Arts**, and **Java**
 
