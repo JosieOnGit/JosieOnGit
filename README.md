@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Joselyne</h1>
 <h3 align="center">You probably know me as Josie. I'm a beginner yet avid programmer.</h3>
-<h4 align="center">I really really like sheep 🐑</h4>
 
 
 
@@ -12,7 +11,7 @@
 
 - 🔭 I’m currently working on **Front-/Back-End Programming**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
 
-- 🌱 I’m currently learning **Web Front-End (HTMLCSS & JS)**, a variety of **Visual Arts**, and **Java**
+- 🌱 I’m currently learning **Web Front-End (HTMLCSS & JS)**, **German**, and **Java**
 
 - 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/playlist/7evMJl6MQTlOFxh1dpPzTk?si=30259f42a2844c0d)**
 
