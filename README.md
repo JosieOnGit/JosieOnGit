@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Joselyne</h1>
-<h3 align="center">You probably know me as Josie. I'm a beginner yet avid programmer.</h3>
+<h3 align="center">You probably know me as Josie. I'm fairly new to programming, but eager to learn.</h3>
 
 
 
@@ -9,9 +9,9 @@
 
 - 🖋️ I primarily write my code in **Python**
 
-- 🔭 I’m currently working on **Front-/Back-End Programming**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
+- 🔭 I’m currently working on **Software Architecture**, **Dart + Flutter**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
 
-- 🌱 I’m currently learning **Web Front-End (HTMLCSS & JS)**, **German**, and **Java**
+- 🌱 I’m currently learning **Dart + Flutter**, **Java**, and **German**
 
 - 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/playlist/7evMJl6MQTlOFxh1dpPzTk?si=30259f42a2844c0d)**
 
