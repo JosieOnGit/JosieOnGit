@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Joselyne</h1>
-<h3 align="center">You probably know me as Josie. I'm fairly new to programming, but eager to learn.</h3>
+<h3 align="center">You probably know me as Josie. I'm a creative bubble eager to visualize my ideas.</h3>
 
 
 
 - ❤️ I'm a sheepgirl using **She/Her** pronouns. Thank you!
 
-- 🌱 I’m currently studying **Software Development**
+- 🌱 I’m currently not studying, but plan to study **Digital Media**
 
 - 🖋️ I primarily write my code in **Python**
 
-- 🔭 I’m currently working on **Software Architecture**, **Dart + Flutter**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
+- 🔭 I’m currently working on, **Dart + Flutter appdev**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
 
-- 🌱 I’m currently learning **Dart + Flutter**, **Java**, and **German**
+- 🌱 I’m currently learning **Dart + Flutter**, and **German**
 
 - 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/playlist/7evMJl6MQTlOFxh1dpPzTk?si=30259f42a2844c0d)**
 
