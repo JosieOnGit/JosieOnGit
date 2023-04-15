@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Joselyne</h1>
 <h3 align="center">You probably know me as Josie. I'm a creative bubble eager to visualize my ideas.</h3>
-
+<h3 align="center">I'll quit my Software Dev study, meaning my GitHub won't update as frequently.</h3>
 
 
 - ❤️ I'm a sheepgirl using **She/Her** pronouns. Thank you!
