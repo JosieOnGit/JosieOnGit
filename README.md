@@ -9,9 +9,9 @@
 
 - 🖋️ I primarily write my code in **Python**
 
-- 🔭 I’m currently working on, **Dart + Flutter appdev**, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
+- 🔭 I’m currently working on **Vue webapp** for CBR, and a **[world-building project](https://github.com/BlackCatMS/Luniks)**
 
-- 🌱 I’m currently learning **Dart + Flutter**, and **German**
+- 🌱 I’m currently learning **Vue** and **German**
 
 - 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/playlist/7evMJl6MQTlOFxh1dpPzTk?si=30259f42a2844c0d)**
 
