@@ -1,5 +1,5 @@
 
-<h1 align="center">Czau, m-ég Josefine</h1>
+<h1 align="center">Czau, m-ég Joselyne</h1>
 <h3 align="center">Vi meulig szesnés me sou Josie. M-ég nóve sur Metalheart, muzík, i multe mot, sed lernég czi!</h3>
 
 
