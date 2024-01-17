@@ -1,21 +1,21 @@
 
-<h1 align="center">Czau, m-ég Joselyne</h1>
-<h3 align="center">Vi meulig szesnés me sou Josie. M-ég nóve sur Metalheart, muzík, i multe mot, sed lernég czi!</h3>
+<h1 align="center">Czau, j-ég Joselyne</h1>
+<h3 align="center">Vi meulig szesnés me sou Josie. J-ég nóve sur Metalheart, muzík, i multe mot, sed lernég czi!</h3>
 
 
 
 
 - ❤️ Ég skáfmájesk 🐏 kie usájést **Szi/Szia** prónomai. Grácu!
 
-- 🌱 Nún ekki studerég, sed skulle studéróg **Broadcast & Digital Media**
+- 🌱 Nún studerég **Online Content Creation**
 
-- 🖋️ Programmérég multe sim **Python**, i usájég **Markdown** multe!
+- 🖋️ He programméríg multe sim **Python**, sed nún usájég **Markdown** multe!
 
-- 🔭 Nún arbétég ou já ek-perfekte **[jázek](https://github.com/JosieOnGit/Luniks)**. Sette README-ést i czá jázek!
+- 🔭 Nún arbétég ou en ek-perfekte **[jázek](https://github.com/JosieOnGit/Luniks)**. Sette README-ést i czá jázek!
 
-- 🌱 Nún lernég nóene **Visual Arts**, **Germániszka**, i **Indonésiszka**!
+- 🌱 Nún lernég nóene **Visual Arts**, **Indonésiszka**, i **After Effects**!
 
-- 🎶 Audicég jut-multe muzíkem. Ésploráj cze faul móje muzíkelskem-ést **[ou Spotify](https://open.spotify.com/playlist/7evMJl6MQTlOFxh1dpPzTk?si=30259f42a2844c0d)**
+- 🎶 Audicég jut-multe muzíkem. Ésploráj cze faul móje muzíkelskem-ést **[ou Spotify](https://open.spotify.com/user/dj_thunderbolt)**
 
 
 - 📫 Kontáktáj me ou **theblackcatms@gmail.com**
