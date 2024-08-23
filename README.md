@@ -1,37 +1,34 @@
 
-<h1 align="center">Czau, j-ég Joselyne</h1>
-<h3 align="center">Vi meulig szesnés me sou Josie. J-ég nóve sur Metalheart, muzík, i multe mot, sed lernég czi!</h3>
+<h1 align="center">Hi, I'm Joselyne</h1>
+<h3 align="center">You probably know me as Josie :)</h3>
 
 
 
 
-- ❤️ Ég skáfmájesk 🐏 kie usájést **Szi/Szia** prónomai. Grácu!
+- ❤️ I use **She/Her** pronouns. Thank you!
 
-- 🌱 Nún studerég **Online Content Creation**
+- 🌱 I'm currently studying **Media Design**.
 
-- 🖋️ He programméríg multe sim **Python**, sed nún usájég **Markdown** multe!
+- 🖋️ I used to program in **Python**, but am currently working on mastering **Markdown**!
 
-- 🔭 Nún arbétég ou en ek-perfekte **[jázek](https://github.com/JosieOnGit/Luniks)**. Sette README-ést i czá jázek!
+- 🔭 I'm currently working on an imperfect **[Worldbuilding project](https://github.com/JosieOnGit/Luniks)**.
 
-- 🌱 Nún lernég nóene **Visual Arts**, **Indonésiszka**, i **After Effects**!
+- 🌱 I'm currently learning **General Media Design**, **Norwegian/German**, and much more!
 
-- 🎶 Audicég jut-multe muzíkem. Ésploráj cze faul móje muzíkelskem-ést **[ou Spotify](https://open.spotify.com/user/dj_thunderbolt)**
+- 📷 I have a touch for photography, take a look at my photos on **[Instagram](https://www.instagram.com/josieoninsta/)** and **[Behance](https://www.behance.net/JosieOnBE)**!
+
+- 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/user/dj_thunderbolt)**
 
 
-- 📫 Kontáktáj me ou **theblackcatms@gmail.com**
-
-<h3 align="left">Póslútáj kúne me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/JosieOnTW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watamevevo" height="30" width="40" /></a>
-<a href="https://instagram.com/theblackcatms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theblackcatms" height="30" width="40" /></a>
+<a href="https://twitter.com/josieontw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josieontw" height="30" width="40" /></a>
+<a href="https://instagram.com/josieoninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josieoninsta" height="30" width="40" /></a>
+<a href="https://www.behance.net/josieonbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="josieonbe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/josieonyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josieonyt" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Jázekái i arbétkem-assistái:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Assístáj me:</h3>
-<p><a href="https://ko-fi.com/blackcatms"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="blackcatms" /></a></p><br><br><br><br>
+<h3 align="left">I'm doing my best to learn these I promise:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=josieongit&show_icons=true&theme=material-palenight" alt="josieongit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=josieongit&theme=material-palenight" alt="josieongit" /></p>
