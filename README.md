@@ -31,4 +31,4 @@
 <h3 align="left">I'm doing my best to learn these I promise:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=josieongit&show_icons=true&theme=material-palenight" alt="josieongit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=josieongit&theme=material-palenight" alt="josieongit" /></p>
