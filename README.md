@@ -25,7 +25,7 @@
 <a href="https://twitter.com/josieontw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josieontw" height="30" width="40" /></a>
 <a href="https://instagram.com/josieoninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josieoninsta" height="30" width="40" /></a>
 <a href="https://www.behance.net/josieonbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="josieonbe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/josieonyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josieonyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@JosieOnYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="josieonyt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">I'm doing my best to learn these I promise:</h3>
