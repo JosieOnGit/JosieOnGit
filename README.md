@@ -17,7 +17,7 @@
 
 - 📷 I have a touch for photography, take a look at my photos on **[Instagram](https://www.instagram.com/josieoninsta/)** and **[Behance](https://www.behance.net/JosieOnBE)**!
 
-- 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/user/dj_thunderbolt)**
+- 🎶 I listen to too much music. Find out how bad my taste is **[on Spotify](https://open.spotify.com/user/dj_thunderbolt)**.
 
 
 <h3 align="left">Connect with me:</h3>
